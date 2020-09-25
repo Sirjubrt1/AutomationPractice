@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="285722" started-at="2020-09-25T19:09:29Z" finished-at="2020-09-25T19:14:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="285722" started-at="2020-09-25T19:09:29Z" finished-at="2020-09-25T19:14:15Z">
+      <class name="scripts.TestScripts">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="preCondition" is-config="true" duration-ms="13305" started-at="2020-09-25T14:09:29Z" finished-at="2020-09-25T14:09:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="AutomationPractice()[pri:0, instance:scripts.TestScripts@61832929]" name="AutomationPractice" duration-ms="16362" started-at="2020-09-25T14:09:43Z" finished-at="2020-09-25T14:09:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AutomationPractice -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="postCondition" is-config="true" duration-ms="2322" started-at="2020-09-25T14:09:59Z" finished-at="2020-09-25T14:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="preCondition" is-config="true" duration-ms="10873" started-at="2020-09-25T14:10:01Z" finished-at="2020-09-25T14:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="BlouseShopping()[pri:0, instance:scripts.TestScripts@61832929]" name="BlouseShopping" duration-ms="18627" started-at="2020-09-25T14:10:12Z" finished-at="2020-09-25T14:10:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlouseShopping -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="postCondition" is-config="true" duration-ms="2302" started-at="2020-09-25T14:10:31Z" finished-at="2020-09-25T14:10:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="preCondition" is-config="true" duration-ms="9825" started-at="2020-09-25T14:10:33Z" finished-at="2020-09-25T14:10:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="DressShopping()[pri:0, instance:scripts.TestScripts@61832929]" name="DressShopping" duration-ms="20476" started-at="2020-09-25T14:10:43Z" finished-at="2020-09-25T14:11:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DressShopping -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="postCondition" is-config="true" duration-ms="2288" started-at="2020-09-25T14:11:03Z" finished-at="2020-09-25T14:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="preCondition" is-config="true" duration-ms="11475" started-at="2020-09-25T14:11:06Z" finished-at="2020-09-25T14:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="EveningDresses()[pri:0, instance:scripts.TestScripts@61832929]" name="EveningDresses" duration-ms="25487" started-at="2020-09-25T14:11:17Z" finished-at="2020-09-25T14:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EveningDresses -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="postCondition" is-config="true" duration-ms="1987" started-at="2020-09-25T14:11:43Z" finished-at="2020-09-25T14:11:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="preCondition" is-config="true" duration-ms="10551" started-at="2020-09-25T14:11:45Z" finished-at="2020-09-25T14:11:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="MouseHover()[pri:0, instance:scripts.TestScripts@61832929]" name="MouseHover" duration-ms="22430" started-at="2020-09-25T14:11:55Z" finished-at="2020-09-25T14:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHover -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="postCondition" is-config="true" duration-ms="2498" started-at="2020-09-25T14:12:18Z" finished-at="2020-09-25T14:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="preCondition" is-config="true" duration-ms="11040" started-at="2020-09-25T14:12:20Z" finished-at="2020-09-25T14:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="MouseHoverFour()[pri:0, instance:scripts.TestScripts@61832929]" name="MouseHoverFour" duration-ms="30198" started-at="2020-09-25T14:12:31Z" finished-at="2020-09-25T14:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHoverFour -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="postCondition" is-config="true" duration-ms="2250" started-at="2020-09-25T14:13:01Z" finished-at="2020-09-25T14:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="preCondition" is-config="true" duration-ms="10048" started-at="2020-09-25T14:13:04Z" finished-at="2020-09-25T14:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="MouseHoverThree()[pri:0, instance:scripts.TestScripts@61832929]" name="MouseHoverThree" duration-ms="24097" started-at="2020-09-25T14:13:14Z" finished-at="2020-09-25T14:13:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHoverThree -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="postCondition" is-config="true" duration-ms="2360" started-at="2020-09-25T14:13:38Z" finished-at="2020-09-25T14:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="preCondition" is-config="true" duration-ms="10454" started-at="2020-09-25T14:13:40Z" finished-at="2020-09-25T14:13:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="MouseHoverTwo()[pri:0, instance:scripts.TestScripts@61832929]" name="MouseHoverTwo" duration-ms="22234" started-at="2020-09-25T14:13:51Z" finished-at="2020-09-25T14:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHoverTwo -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.TestScripts@61832929]" name="postCondition" is-config="true" duration-ms="2156" started-at="2020-09-25T14:14:13Z" finished-at="2020-09-25T14:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- scripts.TestScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
